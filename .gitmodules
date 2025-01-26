@@ -1,0 +1,3 @@
+[submodule "WikiVitalArticles"]
+	path = WikiVitalArticles
+	url = https://github.com/JasperHG90/WikiVitalArticles.git
